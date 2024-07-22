@@ -1,7 +1,7 @@
 # 職務経歴書
 
 ```txt
-create: 2024/07/21
+last updated: 2024/07/21
 status: draft
 ```
 

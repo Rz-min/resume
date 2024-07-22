@@ -4,6 +4,7 @@
   "description": "1. [short version(jp)](resume_short.md) 2. [long version(jp)](./resume_long.md) 3. [english](./resume_en.md)",
   "main": "index.js",
   "scripts": {
+    "build:pdf": "md-to-pdf resume_short.md --config-file ./pdf-configs/config.js",
     "lint": "markdownlint *.md",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,6 +12,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "markdownlint-cli": "^0.41.0"
+    "markdownlint-cli": "^0.41.0",
+    "md-to-pdf": "^5.2.4"
   }
 }
