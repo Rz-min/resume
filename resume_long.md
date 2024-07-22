@@ -56,9 +56,28 @@ status: draft
 
 ## ソフトウェア開発
 
-### Rust MarketData サービスの開発
-
 under construction
+
+### 大規模ゲートウェイアプリケーション開発
+
+* チーム規模: 4人
+* 担当: チームリーダー
+* 利用技術: C++, Go, AWS
+* 詳細:
+
+### SOR注文ソフトウェア開発
+
+* チーム規模: 4人
+* 担当:
+
+# 詳細
+
+* アジャイル開発
+
+* 仕様設計
+* 担当: 認証基盤, AWS cdk, graphql server etc..
+
+### Rust MarketData サービスの開発
 
 ## プログラミングスキル
 
@@ -82,13 +101,11 @@ under construction
   * Go
   * python
   * typescript
-  * zig
-  * c++
 
 * 開発
   * Rustを用いた開発
   * Goを用いた開発
   * フロントエンド開発
-  * eBPFを用いたミドルウェア開発
+  * ミドルウェア開発
   * 機械学習を用いたアプリケーション開発
   * ハイパフォーマンス アプリケーション開発
