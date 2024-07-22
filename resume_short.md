@@ -1,6 +1,6 @@
 # 職務経歴書
 
-```
+```txt
 last updated: 2024/07/22
 ```
 
@@ -14,37 +14,37 @@ last updated: 2024/07/22
 
 ## 職務経歴
 
-### 株式会社SBI証券 (2023/03~)
+### 株式会社 SBI 証券 (2023/03~)
 
-* AWS推進チーム兼務（2023/11~）
-  * 社内AWS利用サポート
+* AWS 推進チーム兼務（2023/11~）
+  * 社内 AWS 利用サポート
   * アーキテクトレビュー
-  * cdk exampleの作成
+  * cdk example の作成
 
 * 開発推進部 Market connectivity (middle software engineer: 課長)（2023/11~）
   * 言語: Rust, C++
-  * SBIクロスの[開発](https://www.sbigroup.co.jp/news/pr/2024/0419_14589.html)
-  * web[サイトリニューアル](https://www.sbigroup.co.jp/news/pr/2024/0625_14740.html)
+  * SBI クロスの [開発](https://www.sbigroup.co.jp/news/pr/2024/0419_14589.html)
+  * web [サイトリニューアル](https://www.sbigroup.co.jp/news/pr/2024/0625_14740.html)
 
 * アーキテクト推進部 CCoE（2023/02〜2023/11)
   * 言語: Python, Rust, Go
   * デモ株取引アプリの開発(新規開発)
-  * CCoE業務
+  * CCoE 業務
   * cdk (python)開発
 
-### 株式会社SBI bits（2021/11〜2023/02）
+### 株式会社 SBI bits（2021/11〜2023/02）
 
 * 開発推進部 Market connectivity (junior software engineer)
   * 言語: Rust, C++
   * Market data[サービス](https://go.sbisec.co.jp/lp/lp_hyper_sbi2_211112.html)のC++からのリプレイスとリアーキテクト
-  * その他Rustを中心とした開発
+  * その他 Rust を中心とした開発
     * 通信ミドルウェアのメンテナンス (socket プログラミング)
-    * 共通developer tool
+    * 共通 developer tool
 
 ### インターン（2019/10〜2021/10）
 
-* Ecサイト開発 (AWS担当)
-* 機械学習アプリケーションWeb開発(Angular, java)
+* EC サイト開発 (AWS 担当)
+* 機械学習アプリケーション Web 開発(Angular, java)
 * 仮想通貨取引所(ビジネスサイド)
 
 ## 学歴
@@ -74,11 +74,11 @@ last updated: 2024/07/22
   * Rust
   * Go
   * python
-  * typescript
+  * TypeScript
 
 * 開発
-  * Rustを用いた開発
-  * Goを用いた開発
+  * Rust を用いた開発
+  * Go を用いた開発
   * フロントエンド開発
   * ミドルウェア開発
   * 機械学習を用いたアプリケーション開発
