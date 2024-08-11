@@ -21,7 +21,7 @@ last updated: 2024/07/22
   * アーキテクトレビュー
   * cdk example の作成
 
-* 開発推進部 Market connectivity (middle software engineer: 課長)（2023/11~）
+* 開発推進部 Market connectivity (middle software engineer)（2023/11~）
   * 言語: Rust, C++
   * SBI クロスの [開発](https://www.sbigroup.co.jp/news/pr/2024/0419_14589.html)
   * web [サイトリニューアル](https://www.sbigroup.co.jp/news/pr/2024/0625_14740.html)
