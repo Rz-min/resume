@@ -1,13 +1,16 @@
 {
-    "[markdown]": {
-        "editor.defaultFormatter": "DavidAnson.vscode-markdownlint",
-    },
-    "markdownlint.config": {
-        "default": true,
-        "MD018": false
-    },
-    "[json]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode",
-        "editor.formatOnSave": true
-    }
+  "[markdown]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode" // MarkdownファイルにPrettierを使用
+  },
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "markdownlint.config": {
+    "default": true,
+    "MD018": false,
+    "MD013": false
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+  }
 }
